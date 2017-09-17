@@ -1,0 +1,2 @@
+It will print nothing because the block is not actually called.
+It will return a Proc.

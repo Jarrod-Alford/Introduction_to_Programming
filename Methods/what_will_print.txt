@@ -1,0 +1,1 @@
+Nothing. The empty return command precedes the call to puts, so puts is ignored.

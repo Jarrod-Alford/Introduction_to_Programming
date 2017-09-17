@@ -1,0 +1,2 @@
+Exception handling tells the program how to deal with errors in the program.
+It allows the program to continue to run even though an error is encountered and can be written to inform the operator of the error.

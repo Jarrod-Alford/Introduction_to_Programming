@@ -1,0 +1,1 @@
+In an irb session, a method called 'calculate_product' was defined beginning in line 1 and required two arguments, and no default arguments were provided. On line 12 of the irb session, a call was made to the calculate_product method, but only one argument was passed to it.

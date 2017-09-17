@@ -1,0 +1,5 @@
+1. It will return 1 since the delete method returns what is deleted.
+   arr is [["b"], ["b", 2], ["b", 3], ["a", 1], ["a", 2] ["a", 3]]
+
+2. It will return [1, 2, 3] since the delete method returns what is deleted.
+   arr is [["b"], ["a", [1, 2, 3]]]

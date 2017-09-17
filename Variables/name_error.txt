@@ -1,0 +1,1 @@
+An error was thrown on line 3 of an irb session due to the user attempting an operation on the variable (or method) 'shoes' when it had not been defined for the current scope.

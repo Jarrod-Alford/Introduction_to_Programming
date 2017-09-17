@@ -1,0 +1,2 @@
+The error is thrown becasue both the end statement and the method definition require an "end", but only one was provided.
+Fix the program by creating a new line between the current lines 6 and 7, and on the new line, write an "end" underneath the if and else.

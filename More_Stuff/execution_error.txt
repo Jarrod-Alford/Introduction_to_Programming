@@ -1,0 +1,2 @@
+In the method definition, the argument must have a & preceding it for Ruby to recognize it as a block argument.
+The error stated that 1 argument was required, but 0 were received. This is because Ruby was expecting a non-block object, but did not get one.

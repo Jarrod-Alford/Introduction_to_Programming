@@ -1,0 +1,1 @@
+In the second line of an irb session, the user ended an expression, that began with a {, with a ).

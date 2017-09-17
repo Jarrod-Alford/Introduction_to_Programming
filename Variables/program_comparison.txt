@@ -1,0 +1,1 @@
+3 for the first program, an error for the second due to x only being defined in the inner scope in the second program.

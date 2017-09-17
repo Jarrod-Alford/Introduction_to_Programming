@@ -1,0 +1,1 @@
+I like Ruby on Rails because of its intrinsic simplicity and its helpful documentation.
